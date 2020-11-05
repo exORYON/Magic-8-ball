@@ -1,0 +1,32 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background-color: rgba(0, 0, 0, 0.644);
+}
+
+img {
+  width: 850px;
+  height: 850px;
+  transition: 2s ease;
+}
+
+img:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+p {
+  position: absolute;
+  color: white;
+  cursor: pointer;
+  font-family: "Russo One", sans-serif;
+  font-size: 26px;
+  width: 150px;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
