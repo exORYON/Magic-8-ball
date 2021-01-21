@@ -3,4 +3,4 @@
 ## Ask me anything..
 
 ### [Visit site](https://exoryon.github.io/Magic-8-ball/)  ← click here
-![alt text](https://upload.wikimedia.org/wikipedia/commons/e/eb/Magic_eight_ball.png "Magic-8-ball")   
+![alt text](https://github.com/exORYON/Projects-preview/blob/main/magic-ball.jpg?raw=true "Magic-8-ball")   
